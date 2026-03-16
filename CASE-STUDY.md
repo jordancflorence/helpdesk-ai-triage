@@ -78,4 +78,4 @@ The hiring panel acknowledged the initiative directly. The role ultimately went 
 
 Jordan Florence is an IT operations professional with 9 years of experience in regulated financial environments, currently transitioning toward analyst and AI workflow roles. He holds a Contract Professor credential at St. Clair College, where he teaches mobile app development.
 
-[GitHub](https://github.com/jordancflorence) | [LinkedIn](#)
+[GitHub](https://github.com/jordancflorence) | [LinkedIn](https://www.linkedin.com/in/jordanflorence/)
