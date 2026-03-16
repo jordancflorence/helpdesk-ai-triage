@@ -758,5 +758,5 @@ Either get this laptop working OR access to the file on a loaner laptop ASAP
 
 ---
 
-**Last Updated**: [Date]
+**Last Updated**: 2026-03-16
 **Questions about this guide?** Contact IT or your department manager.
